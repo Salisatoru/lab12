@@ -3,6 +3,7 @@
 #include<ctime>
 using namespace std;
 
+
 int main()
 {
     srand(time(0));
@@ -24,3 +25,4 @@ int main()
 
     cout<<"You will get "<<grade<<" in this 261102. ";
 }
+
